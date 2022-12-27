@@ -1,3 +1,4 @@
+# Bidirectional Translator | English <-> Japanese
 Utilizes tkinter, googletrans, and langdetect libraries to create a GUI for translating Japanese and English bidirectionally. It displays the translated text as well as the pronunciation for Japanese. 
 
 Dependencies:\
